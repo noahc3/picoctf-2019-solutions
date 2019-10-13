@@ -107,7 +107,7 @@ Here are some recommended tools that we used to complete these challenges
 * **m00nwalk2 (solved)**
 * **pastaAAA (solved)**
 * **shark on wire 1 (solved)**
-* **shark on wire 2 (solved)**
+* **[shark on wire 2 (solved)](https://github.com/noahc3/picoctf-2019-solutions/tree/master/Forensics/shark-on-wire-2)**
 * **So Meta (solved)**
 * **unzip (solved)**
 * **WebNet0 (solved)**

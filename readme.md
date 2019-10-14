@@ -31,7 +31,7 @@ Here are some recommended tools that we used to complete these challenges
 * IDA (reversing, patching)
 * HxD (hex editor)
 * jd-gui (Java decompiler)
-* dextools (JAR browser)
+* dextools (APK to JAR converter)
 * apktool (APK extractor)
 * LuckyPatcher (signing recompiled APKs)
 * Android Studio (android emulator)
@@ -43,6 +43,7 @@ Here are some recommended tools that we used to complete these challenges
 * CharlesProxy (monitoring network traffic)
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) (quickly editing cookies w/o devtools)
 * JohnTheRipper (secret key cracker)
+* www.jwt.io (JWT cookie editor)
 
 ## Solution Index
 
